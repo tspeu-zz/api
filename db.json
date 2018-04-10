@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "data":[
+  
+		{		
+			"startTime": "Mon Apr 02 12:00" , 
+            "endTime": "Tue Apr 03 12:00", 
+            "allDay": false,
+            "persona": "Pepe",
+            "color": "red", 
+            "title": "ALCAMPO"
+         },
+		 {		
+			"startTime": "Mon Apr 02 12:00" , 
+            "endTime": "Tue Apr 03 12:00", 
+            "allDay": false,
+            "persona": "Lola",
+            "color": "yellow", 
+            "title": "LIDL"
+         }
+	]
+}
